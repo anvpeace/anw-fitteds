@@ -1,0 +1,85 @@
+header{
+background-color: black;
+    padding-bottom: 25px;
+    
+}
+
+body{
+    background-color: azure;
+}
+
+
+#coverPic{
+  /* margin-left: 20px;/*
+   /* margin-right: 20px;
+
+*/
+margin-top: 40px;
+padding-left: 2px;
+padding-right: 2px;
+padding-bottom: 5px;
+}
+
+#nameBrand{
+    text-align: center;
+}
+
+#anv{
+    margin-top: 25px;
+margin-left: 35%;
+border-style: double;
+border-color: darkkhaki;
+border-width: 4px;
+
+}
+
+figure{
+    margin-top: 15%;
+}
+
+#homePageBio{
+    text-align: center;
+    text-shadow: 2px;
+    padding: 8px;
+    border-color: darkkhaki;
+    
+}
+
+/*.btn{
+   
+   
+   
+   
+    
+} */
+
+
+
+
+#preHome{
+    margin-left: 378px;
+    padding: 5px;
+   
+}
+
+
+
+/*#button1{
+    padding-right: 6px;
+}
+
+#button2{
+    padding-right: 6px;
+
+}
+#button3{
+    padding-right: 6px;
+
+} */
+
+#slogan{
+    text-align: center;
+    font-size: larger;
+    font-family: cursive;
+    font-weight: 400;
+}
